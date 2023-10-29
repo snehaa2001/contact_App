@@ -1,16 +1,18 @@
 # contacts_app
 
-A new Flutter project.
+## Run the application 
+ - git clone https://github.com/snehaa2001/contact_App.git
+ - flutter run
 
-## Getting Started
+## Screens
 
-This project is a starting point for a Flutter application.
+ - Login 
+ - Sign up/Register
+ - Contacts
+ - Update/Delete contacts
+ - Add contacts
+ - Profile/Logout
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
